@@ -5,7 +5,7 @@
   flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
-  padding: 1rem 0;
+  padding: 1rem 0 2rem;
   gap: 1.8rem;
 }
 .footer__item {
@@ -17,6 +17,7 @@
 }
 .footer__item > .footer__list {
   gap: 0.5rem;
+  padding: 1rem 0;
 }
 .footer__item > .footer__list > .footer__item {
   font-size: 1rem;
