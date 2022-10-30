@@ -13,25 +13,24 @@
     &:nth-child(3)
       display: none
   &__button
-    border: 2px solid #EA4256
+    border: 2px solid $burgundy
     border-radius: 100px
     padding: 5px 1.2rem 10px
   &__link
     img
       width: 6rem
 
-@media (min-width: $md)
-  .nav
-    &__item
-      &:nth-child(3)
-        display: block
-    &__link
-      img
-        width: 8rem
-
 @media (min-width: $sm)
   .nav
     &__link
       img
-        width: 7rem
+        width: 7.5rem
 
+@media (min-width: $md)
+  .nav
+    &__link
+      img
+        width: 9rem
+    &__item
+      &:nth-child(3)
+        display: block
