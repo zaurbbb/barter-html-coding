@@ -17,6 +17,9 @@
   border: 2px solid #EA4256;
   border-radius: 100px;
   padding: 5px 1.2rem 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .nav__link img {
   width: 6rem;
