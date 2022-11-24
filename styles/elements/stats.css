@@ -1,6 +1,6 @@
 .stats {
   width: 100%;
-  margin: 3rem 0;
+  margin: 3rem 0 2rem 0;
 }
 .stats__list {
   display: flex;
@@ -41,6 +41,7 @@
 @media (min-width: 1000px) {
   .stats {
     width: 100%;
+    margin: 5rem 0 3rem 0;
   }
   .stats__list {
     padding: 0;
