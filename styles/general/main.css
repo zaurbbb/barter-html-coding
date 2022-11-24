@@ -80,6 +80,16 @@ body {
 a {
   text-decoration: none;
   color: black;
+  cursor: pointer;
+}
+
+.highlighted-text {
+  color: #EA4256;
+}
+
+.highlighted-link {
+  color: #EA4256;
+  text-decoration: underline;
 }
 
 @media (min-width: 1200px) {
