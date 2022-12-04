@@ -14,5 +14,5 @@ BarterFood is a service to attract bloggers to café and restaurants.
 
 
 ## Links
-* [Live demo](https://zaurbbb.github.io/barter-html-coding/)
+* [Live demo](https://zaurbbb.github.io/barter-html-layout/)
 * [Figma Design](https://www.figma.com/file/C0X3RFup9lludyRNMIbD18/BarterFood-(Copy))
